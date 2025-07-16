@@ -30,8 +30,8 @@ Hi! I'm **Sandip Das**, a passionate **MERN stack developer** dedicated to build
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/codewithsandip) 
-- 🐙 [GitHub](www.linkedin.com/in/codewithsandip)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/codewithsandip) 
+- 🐙 [GitHub](https://github.com/Codewith-Sandip)  
 - 🌐 [Portfolio Website]( https://sandipdas.netlify.app) 
 
 ---
