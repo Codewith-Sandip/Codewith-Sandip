@@ -40,7 +40,7 @@ Hi! I'm **Sandip Das**, a passionate **MERN stack developer** dedicated to build
 
 > 🔨 Explore my repositories to see projects built with MERN stack, REST APIs, responsive UI, and more!
 
-- 🚧 Portfolio Website (HTML, CSS, JS, Bootstrap)  
+- 🚧 Portfolio Website (HTML, CSS, JS, Bootstrap) 🚀 [View Project](https://github.com/Codewith-Sandip/Portfolio.git) 
 - 🌍 
 - 📋 
 
@@ -51,6 +51,8 @@ Hi! I'm **Sandip Das**, a passionate **MERN stack developer** dedicated to build
 ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codewith-Sandip&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewith-Sandip&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Codewith-Sandip&theme=dark)
 
 ---
 
