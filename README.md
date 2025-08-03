@@ -40,8 +40,8 @@ Hi! I'm **Sandip Das**, a passionate **MERN stack developer** dedicated to build
 
 > 🔨 Explore my repositories to see projects built with MERN stack, REST APIs, responsive UI, and more!
 
-- 🚧 PORTFOLIO WEBSITE 🚀 [View Project](https://github.com/Codewith-Sandip/Portfolio.git) 
-- 🌍 STAYNEST – Find Your Perfect Stay [View Project](https://github.com/Codewith-Sandip/Staynest.git) 
+- 🚧 Portfolio Website 🚀 [View Project](https://github.com/Codewith-Sandip/Portfolio.git) 
+- 🌍 StayNest – Find Your Perfect Stay [View Project](https://github.com/Codewith-Sandip/Staynest.git) 
 - 📋 
 
 ---
